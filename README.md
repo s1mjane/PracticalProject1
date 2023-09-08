@@ -7,8 +7,8 @@ PracticalProject1
 >   public Object add(); <br>
     public int update(Object obj); <br>
     public int delete(Object obj); <br>
-    public void selectOne(int id); <br> <br>
-
+    public void selectOne(int id); <br> 
+<br>
 #### ⌨️ 실행 화면 캡쳐
     
 <img width="356" alt="스크린샷 2023-09-08 오후 9 30 02" src="https://github.com/s1mjane/ossTeam/assets/100616572/9b959096-0d43-45c0-9032-a2004fa1bed8"> <br>

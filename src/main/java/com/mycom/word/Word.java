@@ -7,7 +7,7 @@ public class Word {
     private String meaning;
 
     Word(){} // 기본형 생성자
-    Word(int id, int level, String word, String meaning) {
+    Word(int id, int level, String word, String meaning) { // 멤버변수를 파라미터로 받는 생성자
         this.id = id;
         this.level = level;
         this.word = word;
@@ -45,4 +45,14 @@ public class Word {
     public void setMeaning(String meaning) {
         this.meaning = meaning;
     }
+
+    @Override
+    public String toString() {
+        String slevel = "";
+        for (int i = 0; i < level; i++) slevel += "*";
+        String str = String.format("%-3s", slevel)
+                + String.format("%15s", word) + " " + meaning;
+        return str;
+    }
+
 }

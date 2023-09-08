@@ -4,14 +4,13 @@ import java.util.Scanner;
 
 public class WordManager {
     Scanner s = new Scanner(System.in);
-//    WordCRUD wordCRUD;
+    WordCRUD wordCRUD;
 
     WordManager() {
-//        wordCRUD = new WordCRUD(s);
+        wordCRUD = new WordCRUD(s);
     }
     public int selectMenu() {
-        System.out.print("*** 영단어 마스터 ***\n" +
-                "******************\n" +
+        System.out.print("******************\n" +
                 "1. 모든 단어 보기\n" +
                 "2. 수준별 단어 보기\n" +
                 "3. 단어 검색\n" +
@@ -23,14 +22,20 @@ public class WordManager {
                 "******************\n" +
                 "=> 원하는 메뉴는? ");
         return s.nextInt();
-
     }
     public void start() {
+        System.out.print("*** 영단어 마스터 ***\n\n");
         while(true) {
             int menu = selectMenu();
-            if(menu == 0) break;
-//            if(menu == 1) WordCRUD.listAll();
-//            if(menu == 4) WordCRUD.addItem();
+            if(menu == 0) {
+                System.out.print("\n프로그램 종료! 다음에 만나요~");
+                break;}
+            else if(menu == 1) {
+                wordCRUD.listAll();
+            }
+            else if(menu == 4) {
+                wordCRUD.addItem();
+            }
         }
     }
 }

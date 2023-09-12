@@ -101,7 +101,7 @@ public class WordCRUD implements ICRUD {
         System.out.print("=> 삭제할 단어 검색 : ");
         String keyword = s.next(); // next: 공백을 허용하지 않기 위해서
         ArrayList<Integer> idlist = this.listAll(keyword);
-        System.out.print("=> 수정할 번호 검색 : ");
+        System.out.print("=> 삭제할 번호 검색 : ");
         int id = s.nextInt();
         s.nextLine();
         System.out.print("=> 정말로 삭제하시겠습니까?(Y/N) : ");

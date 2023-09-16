@@ -1,3 +1,10 @@
 1| one|하나
 2| water|물
 1| two|둘
+1| scatter|흩뿌리다, 살포하다
+1| transfer|옮기다, 이동하다
+3| superintendent|관리자, 감독관
+1| electric|전기의, 전기를 생산하는
+2| equipment|장비, 용품
+2| embarrassment|당황, 난처함
+2| consicious|의식하는, 자각하는

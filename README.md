@@ -11,14 +11,17 @@ PracticalProject1
 
 #### ⌨️ 실행 화면 캡쳐
     
-<img width="356" alt="스크린샷 2023-09-08 오후 9 30 02" src="https://github.com/s1mjane/ossTeam/assets/100616572/9b959096-0d43-45c0-9032-a2004fa1bed8"> <br>
+<img width="380" alt="screenshot 1" src="https://github.com/s1mjane/ossTeam/assets/100616572/1ae19b0b-1b54-4189-a060-f0c8c501706b">
+<br>
+<img width="380" alt="screenshot 2" src="https://github.com/s1mjane/ossTeam/assets/100616572/25ec5022-21d0-49bc-afe5-1dc40aa1b473">
+<br>
+<img width="379" alt="screenshot 3" src="https://github.com/s1mjane/ossTeam/assets/100616572/a6ccad87-1c50-4325-9488-3a04698d8fdc">
+<br>
+<img width="381" alt="screenshot 4" src="https://github.com/s1mjane/ossTeam/assets/100616572/1de62bde-50a5-4c34-955b-6ab4a5f6abeb">
+<br>
+<img width="380" alt="screenshot 5" src="https://github.com/s1mjane/ossTeam/assets/100616572/524223da-47e1-40fc-81c9-f98781a74a25">
+<br>
+<img width="378" alt="screenshot 6" src="https://github.com/s1mjane/ossTeam/assets/100616572/ba9cc879-3733-4410-acdb-8c7bcb4ec4e2">
 
-<img width="377" alt="스크린샷 2023-09-08 오후 9 30 12" src="https://github.com/s1mjane/ossTeam/assets/100616572/d414e42b-53d4-4687-ad94-21e032a3f4f9"> <br>
-
-<img width="380" alt="스크린샷 2023-09-08 오후 9 30 18" src="https://github.com/s1mjane/ossTeam/assets/100616572/4e978a0c-c25f-4499-9d42-8c670bd50541"> <br>
-
-<img width="364" alt="스크린샷 2023-09-08 오후 9 30 25" src="https://github.com/s1mjane/ossTeam/assets/100616572/54b1ef9f-2286-43b4-b4db-9131aa544f94"> <br>
-
-<img width="358" alt="스크린샷 2023-09-08 오후 9 30 40" src="https://github.com/s1mjane/ossTeam/assets/100616572/c81aefaf-823e-4747-8a5d-614dd17ce030">
 
 

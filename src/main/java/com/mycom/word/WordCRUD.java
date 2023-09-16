@@ -84,10 +84,10 @@ public class WordCRUD implements ICRUD {
     }
 
     public void updateItem() {
-        System.out.print("=> 수정할 단어 검색 : ");
+        System.out.print("\n=> 수정할 단어 검색 : ");
         String keyword = s.next(); // next: 공백을 허용하지 않기 위해서
         ArrayList<Integer> idlist = this.listAll(keyword);
-        System.out.print("\n=> 수정할 번호 검색 : ");
+        System.out.print("=> 수정할 번호 검색 : ");
         int id = s.nextInt();
         s.nextLine();
         System.out.print("=> 뜻 입력 : ");
